@@ -1,0 +1,31 @@
+# Core App Framework
+streamlit
+
+# OCR & Image Handling
+pytesseract
+Pillow
+
+# Document Parsing
+python-docx
+docx2txt
+PyMuPDF          # For PDF parsing
+
+# Email Handling
+imapclient
+email-validator
+
+# RAG & LLM Support
+langchain
+openai
+chromadb
+tiktoken
+
+# Embedding & NLP (Optional fallback to HuggingFace)
+sentence-transformers
+transformers
+
+# Text splitting
+nltk
+
+# Utility
+python-dotenv

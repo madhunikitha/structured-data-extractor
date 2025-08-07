@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+myenv/
+
+# Environment settings
+.env
+
+# Logs
+*.log
+audit_log.json
+
+# Vector database
+chroma_db/
+
+# VS Code / system / IDE files
+.vscode/
+*.DS_Store
+.idea/
+Thumbs.db
+desktop.ini
