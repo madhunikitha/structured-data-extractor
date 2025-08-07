@@ -1,9 +1,13 @@
 # Core App Framework
 streamlit
+pandas
+spacy
 
 # OCR & Image Handling
 pytesseract
 Pillow
+easyocr
+
 
 # Document Parsing
 python-docx
