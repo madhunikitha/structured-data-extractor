@@ -108,3 +108,26 @@ streamlit run Home.py
 
 - **Summarizing or Querying Handwritten Notes**  
   Convert handwritten notes into searchable text and allow natural language queries or summarization.
+
+## output
+structured output using rag and llm
+
+<img width="1332" height="634" alt="image" src="https://github.com/user-attachments/assets/caf9291b-da09-4bcc-af29-8a4b8e592152" />
+
+<img width="1344" height="624" alt="image" src="https://github.com/user-attachments/assets/ce9b69f4-ea32-424c-a2a1-47f9f43209c6" />
+
+<img width="1344" height="617" alt="image" src="https://github.com/user-attachments/assets/9ce9ddfc-af12-4b44-ae34-d12c5566c9cb" />
+
+<img width="1250" height="626" alt="image" src="https://github.com/user-attachments/assets/9aa48cad-9b8b-49ff-a1b2-397ff8c13b43" />
+
+using NER model
+
+<img width="1326" height="634" alt="image" src="https://github.com/user-attachments/assets/f54a3740-0f56-4e4d-825b-e66a5ad576f7" />
+
+<img width="1303" height="598" alt="image" src="https://github.com/user-attachments/assets/ff83f952-8c6e-415e-a965-609c9bc16e2d" />
+
+
+
+
+
+
